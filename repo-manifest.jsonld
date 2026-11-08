@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/bentoml/quickstart/commit/436b9034a888b3bf8b1a5af699ab8734273f812d",
       "git:hexsha": "436b9034a888b3bf8b1a5af699ab8734273f812d",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
