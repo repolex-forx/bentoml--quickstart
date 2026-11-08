@@ -1,0 +1,24 @@
+{
+  "manifest_version": "1.0",
+  "org": "bentoml",
+  "repo": "quickstart",
+  "versions": [
+    {
+      "commit": "436b9034a888b3bf8b1a5af699ab8734273f812d",
+      "parsed_at": "2026-11-08T06:02:59.566143+00:00",
+      "filetree": "filetree/436b9034a888b3bf8b1a5af699ab8734273f812d.nq.gz",
+      "blobs": [
+        "blob/b355bba362721ee64fbc57b2bf7cd215ed5e3737.nq.gz",
+        "blob/68bc17f9ff2104a9d7b6777058bb4c343ca72609.nq.gz",
+        "blob/d9cf1150b84cca06b20e7dcae3a5941ad67e1d87.nq.gz",
+        "blob/261eeb9e9f8b2b4b0d119366dda99c6fd7d35c64.nq.gz",
+        "blob/dc4e32fd6da6268d9d889772d7c3928c43e5ddb5.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
