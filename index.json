@@ -1,0 +1,11 @@
+{
+  "org": "bentoml",
+  "repo": "quickstart",
+  "versions": [
+    {
+      "commit": "436b9034a888b3bf8b1a5af699ab8734273f812d",
+      "tag": "",
+      "parsed_at": "2026-11-08T06:04:45.289510+00:00"
+    }
+  ]
+}
